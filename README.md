@@ -1,3 +1,3 @@
 # Core Java Concepts
 
-This repository contains study material for Core Java 9 concepts.
+A couple of books and study material to get started on Java
